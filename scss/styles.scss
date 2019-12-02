@@ -311,6 +311,13 @@ footer {
     }
 }
 
+h3 {
+    &.heading {
+        font-size: 1.5em;
+        margin: 0 0 20px 0;
+    }
+}
+
 .background-alt {
     background: $background-alt;
 }
@@ -598,7 +605,7 @@ footer {
     text-align: center;
     h2 {
         color: $heading;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
     }
 }
 
